@@ -9,9 +9,7 @@ import SideBar from "./SideBar/SideBarTemplate";
 class App extends Component {
   render() {
     return (
-      <SideBar/>
-      
-
+      <Board/>
     );
   }
 }
